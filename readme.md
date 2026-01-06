@@ -1,6 +1,6 @@
 # Sucka!
 
-![Pixelated Squid](./icon.png)
+<img src="./icon.png" width="100" height="100">
 
 ### _Discord Bot That Extracts Synced Per-User Audio From A Discord VC_
 
