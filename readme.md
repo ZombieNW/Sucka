@@ -1,5 +1,7 @@
 # Sucka!
 
+![Pixelated Squid](./icon.png)
+
 ### _Discord Bot That Extracts Synced Per-User Audio From A Discord VC_
 
 ![Language](https://badgen.net/badge/language/Python/yellow) ![Languages](https://badgen.net/badge/library/PyCord/blue) ![License](https://badgen.net/badge/language/MIT/red)
